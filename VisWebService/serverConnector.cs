@@ -543,7 +543,8 @@ namespace VisTool
                 FileInfo fi = new FileInfo(strFile);
                 //strToPath = "data";
                 //step1
-                string urlPath = strToPath + "/" + fi.Name;
+                string uuid = System.Guid.NewGuid().ToString("N");
+                string urlPath = strToPath + "/" + uuid;
                 string strURL = m_hdfsServerUrl+"/webhdfs/v1/" + WebUtility.UrlEncode(urlPath) + "?user.name=hadoop&op=CREATE&overwrite=true";
                 //string strURL = m_hdfsServerUrl + "/webhdfs/v1/" + strToPath + "/" + fi.Name + "?user.name=hadoop&op=CREATE&overwrite=true";
                 //strURL+="?op=CREATE[&overwrite=<true|false>][&blocksize=<LONG>][&replication=<SHORT>][&permission=<OCTAL>][&buffersize=<INT>]";
