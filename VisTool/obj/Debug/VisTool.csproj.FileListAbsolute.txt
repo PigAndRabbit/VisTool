@@ -47,6 +47,3 @@ E:\share\VisTool\VisTool\obj\Debug\VisTool.ModelList.resources
 E:\share\VisTool\VisTool\obj\Debug\VisTool.Properties.Resources.resources
 E:\share\VisTool\VisTool\obj\Debug\VisTool.SaveFrm.resources
 E:\share\VisTool\VisTool\obj\Debug\VisTool.csproj.GenerateResource.Cache
-E:\Projects\VisTool\bin\Debug\VisTool.exe.config
-E:\Projects\VisTool\VisTool\obj\Debug\VisTool.exe
-E:\Projects\VisTool\VisTool\obj\Debug\VisTool.pdb
