@@ -1,0 +1,136 @@
+ 13:10:17.305, Info      [CompatEnvironment::Initialize] Start...
+ 13:10:17.305, Info      [CompatEnvironment::Initialize] Tool Version = 1.4.9200.17295
+ 13:10:17.305, Info      [CompatEnvironment::Initialize] wstrSystemDrive = C:
+ 13:10:17.306, Info      [CompatEnvironment::Initialize] wstrLogFileFullPath = C:\$GetCurrent\Logs\compatcheck_2016_07_10_13_10_17_305.log
+ 13:10:17.306, Info      [CompatEnvironment::Initialize] wstrReportPath = C:\$GetCurrent\Logs\compatcheck_2016_07_10_13_10_17_305.rpt
+ 13:10:17.306, Info      [CompatEnvironment::Initialize] wstrDeviceReport = C:\Users\TT\AppData\Local\Temp\\deviceReport.xml
+ 13:10:17.338, Info      [CompatEnvironment::Initialize]  Device Id is: dd92fc64ecf53907b597c1852a8b80ab5bd0f69f
+ 13:10:17.339, Info      [WMIHelper::GetRegMachineId]  Open an existing reg key HKLM\SOFTWARE\Microsoft\SQMClient.
+ 13:10:17.339, Info      [CompatEnvironment::Initialize]  Machine Id is: {34F48513-55BE-4564-9C29-B20401712E0E}
+ 13:10:17.339, Info      [CompatEnvironment::Initialize] Windows Version: 6.1 (7601),Service Pack 1,producttype=1
+ 13:10:17.339, Info      [CompatEnvironment::Initialize]  Init Telemetry system based on WER APIs
+ 13:10:17.339, Info      [CompatEnvironment::Initialize] Finished
+ 13:10:17.420, Error     [ReadRegistryValueString] File:utils.cpp, Line:338 failed with error code 0x80070002
+ 13:10:17.420, Error     [OperatingSystemInfo::GetOEM] Failed to read Manufacturer info. Error code 0x80070002
+ 13:10:17.438, Info      [HostIsUEFIFirmware] Host is not UEFI.
+ 13:10:17.439, Info      [IsNTFSVolume] Current system disk format is NTFS
+ 13:10:17.439, Info      [BCDUtil::NTFileCompressed]  Check NT File compressed: \Device\HarddiskVolume1\ 
+ 13:10:17.439, Warning   [BCDUtil::NTFileCompressed]  NTFileCompressed failed! SclFileCompressedXP(pszFileName) = 0 
+ 13:10:17.491, Info      [ProcessorInfo::IsNXPresent] IsProcessorFeaturePresent detected processor supports NX
+ 13:10:17.491, Info      [ProcessorInfo::IsNXPresent] IsProcessorFeaturePresent detected processor supports NX
+ 13:10:17.492, Info      [MemoryInfo::GetPhysicalSize] Succeeded to load kernel32.dll
+ 13:10:17.492, Info      [MemoryInfo::GetPhysicalSize] Succeeded to get pointer of Func-GetPhysicallyInstalledSystemMemory
+ 13:10:17.492, Info      [MemoryInfo::GetPhysicalSize] Get memory capacity through GetPhysicallyInstalledSystemMemory: 8388608
+ 13:10:17.492, Info      [MemoryInfo::GetPhysicalSize] Final memory capacity: 8388608
+ 13:10:17.496, Warning   [GetDevInvReportForTest] testDevinv.xml doesn't exist
+ 13:10:17.496, Error     [GetDevInvReportForTest] File:utils.cpp, Line:941 failed with error code 0x80030002
+ 13:10:27.076, Info      [Device::UpdateEnumerator] Succeed to get enumerator usbprint from usbprint\hewlett-packardhp_la520d
+ 13:10:27.076, Info      [DeviceEngine::GetDeviceList] Finished loading device list.
+ 13:10:27.077, Info      [CosQueryHelper::Initialize] The path of cosquery.dll is C:\Windows\SysWOW64\config\systemprofile\AppData\Roaming.\cosquery.dll
+ 13:10:29.258, Info      [CosQueryHelper::GetDeviceRatings] Begin COS device ratings
+ 13:10:29.258, Info      	WS Rating found for device id pci\ven_8086&dev_0166: 
+ 13:10:29.258, Info      		Rating 80 (Wica rating 4) Solution 20 (Wica solution 5)
+ 13:10:29.258, Info      	WS Rating found for device id pci\ven_10de&dev_0def&subsys_21f417aa: 
+ 13:10:29.259, Info      		Rating 80 (Wica rating 4) Solution 20 (Wica solution 5)
+ 13:10:29.259, Info      [CosQueryHelper::GetDeviceRatings] End COS device ratings
+ 13:10:31.414, Info      [CosQueryHelper::GetDeviceRatings] Begin COS device ratings
+ 13:10:31.414, Info      	WS Rating found for device id pci\ven_8086&dev_0166: 
+ 13:10:31.414, Info      		Rating 80 (Wica rating 4) Solution 20 (Wica solution 5)
+ 13:10:31.414, Info      	WS Rating found for device id pci\ven_10de&dev_0def&subsys_21f417aa: 
+ 13:10:31.415, Info      		Rating 80 (Wica rating 4) Solution 20 (Wica solution 5)
+ 13:10:31.415, Info      [CosQueryHelper::GetDeviceRatings] End COS device ratings
+ 13:10:31.415, Info      Temp blocks file path: C:\Users\TT\AppData\Local\Temp\Blocks.xml
+ 13:10:31.415, Warning   Failed to clean url cache entry. HRESULT = 0x80070002
+ 13:10:31.415, Info      Download blocks file from http://cnupgrade.microsoft.com/getcontent?container=compatcheck&filepath=Blocks.xml to C:\Users\TT\AppData\Local\Temp\Blocks.xml
+ 13:10:31.506, Info      Blocks file is loaded from C:\Users\TT\AppData\Local\Temp\Blocks.xml
+ 13:10:31.506, Info      File blocks checked result: pass
+ 13:10:31.506, Info      Service blocks checked result: pass
+ 13:10:31.506, Info      Registry blocks checked result: pass
+ 13:10:31.506, Info      CompatCheck finished, report created.
+ 13:10:31.508, Info      [AppraiserNode::PopulateAppraiserNodeUsingXML] Finally, searching arrives at leaf node.
+ 13:10:31.508, Info      [AppraiserNode::PopulateAppraiserNodeUsingXML] Current system is 64bits.
+ 13:10:31.508, Info      [AppraiserNode::PopulateAppraiserNodeUsingXML] Node name is HardwareItem, blocktype is None.
+ 13:10:31.508, Info      [AppraiserNode::PopulateAppraiserNodeUsingXML] Node name is HardwareItem, GetAppraiserResult finished, hr = 0x0.
+ 13:10:31.508, Info      [AppraiserNode::PopulateAppraiserNodeUsingXML] Finally, searching arrives at leaf node.
+ 13:10:31.508, Info      [AppraiserNode::PopulateAppraiserNodeUsingXML] Current system is 64bits.
+ 13:10:31.508, Info      [AppraiserNode::PopulateAppraiserNodeUsingXML] Node name is HardwareItem, blocktype is None.
+ 13:10:31.508, Info      [AppraiserNode::PopulateAppraiserNodeUsingXML] Node name is HardwareItem, GetAppraiserResult finished, hr = 0x0.
+ 13:10:31.508, Info      [AppraiserNode::PopulateAppraiserNodeUsingXML] Finally, searching arrives at leaf node.
+ 13:10:31.508, Info      [AppraiserNode::PopulateAppraiserNodeUsingXML] Current system is 64bits.
+ 13:10:31.508, Info      [AppraiserNode::PopulateAppraiserNodeUsingXML] Node name is HardwareItem, blocktype is None.
+ 13:10:31.508, Info      [AppraiserNode::PopulateAppraiserNodeUsingXML] Node name is HardwareItem, GetAppraiserResult finished, hr = 0x0.
+ 13:10:31.508, Info      [AppraiserNode::PopulateAppraiserNodeUsingXML] Finally, searching arrives at leaf node.
+ 13:10:31.508, Info      [AppraiserNode::PopulateAppraiserNodeUsingXML] Current system is 64bits.
+ 13:10:31.508, Info      [AppraiserNode::PopulateAppraiserNodeUsingXML] Node name is HardwareItem, blocktype is None.
+ 13:10:31.508, Info      [AppraiserNode::PopulateAppraiserNodeUsingXML] Node name is HardwareItem, GetAppraiserResult finished, hr = 0x0.
+ 13:10:31.508, Info      [AppraiserNode::PopulateAppraiserNodeUsingXML] Finally, searching arrives at leaf node.
+ 13:10:31.508, Info      [AppraiserNode::PopulateAppraiserNodeUsingXML] Current system is 64bits.
+ 13:10:31.509, Info      [AppraiserNode::PopulateAppraiserNodeUsingXML] Node name is HardwareItem, blocktype is None.
+ 13:10:31.509, Info      [AppraiserNode::PopulateAppraiserNodeUsingXML] Node name is HardwareItem, GetAppraiserResult finished, hr = 0x0.
+ 13:10:31.509, Info      [AppraiserNode::PopulateAppraiserNodeUsingXML] Finally, searching arrives at leaf node.
+ 13:10:31.509, Info      [AppraiserNode::PopulateAppraiserNodeUsingXML] Current system is 64bits.
+ 13:10:31.509, Info      [AppraiserNode::PopulateAppraiserNodeUsingXML] Node name is HardwareItem, blocktype is None.
+ 13:10:31.509, Info      [AppraiserNode::PopulateAppraiserNodeUsingXML] Node name is HardwareItem, GetAppraiserResult finished, hr = 0x0.
+ 13:10:31.509, Info      [AppraiserNode::PopulateAppraiserNodeUsingXML] Finally, searching arrives at leaf node.
+ 13:10:31.509, Info      [AppraiserNode::PopulateAppraiserNodeUsingXML] Current system is 64bits.
+ 13:10:31.509, Info      [AppraiserNode::PopulateAppraiserNodeUsingXML] Node name is HardwareItem, blocktype is None.
+ 13:10:31.509, Info      [AppraiserNode::PopulateAppraiserNodeUsingXML] Node name is HardwareItem, GetAppraiserResult finished, hr = 0x0.
+ 13:10:31.509, Info      [AppraiserNode::PopulateAppraiserNodeUsingXML] Finally, searching arrives at leaf node.
+ 13:10:31.509, Info      [AppraiserNode::PopulateAppraiserNodeUsingXML] Current system is 64bits.
+ 13:10:31.509, Info      [AppraiserNode::PopulateAppraiserNodeUsingXML] Node name is HardwareItem, blocktype is None.
+ 13:10:31.509, Info      [AppraiserNode::PopulateAppraiserNodeUsingXML] Node name is HardwareItem, GetAppraiserResult finished, hr = 0x0.
+ 13:10:31.509, Info      [AppraiserNode::PopulateAppraiserNodeUsingXML] Finally, searching arrives at leaf node.
+ 13:10:31.509, Info      [AppraiserNode::PopulateAppraiserNodeUsingXML] Current system is 64bits.
+ 13:10:31.509, Info      [AppraiserNode::PopulateAppraiserNodeUsingXML] Node name is HardwareItem, blocktype is None.
+ 13:10:31.509, Info      [AppraiserNode::PopulateAppraiserNodeUsingXML] Node name is HardwareItem, GetAppraiserResult finished, hr = 0x0.
+ 13:10:31.509, Info      [AppraiserNode::PopulateAppraiserNodeUsingXML] Node name is Hardware, GetAppraiserResult finished, hr = 0x0.
+ 13:10:31.509, Info      [AppraiserNode::PopulateAppraiserNodeUsingXML] Finally, searching arrives at leaf node.
+ 13:10:31.509, Info      [AppraiserNode::PopulateAppraiserNodeUsingXML] Current system is 64bits.
+ 13:10:31.509, Info      [AppraiserNode::PopulateAppraiserNodeUsingXML] Node name is Device, blocktype is None.
+ 13:10:31.509, Info      [AppraiserNode::PopulateAppraiserNodeUsingXML] Node name is Device, GetAppraiserResult finished, hr = 0x0.
+ 13:10:31.510, Info      [AppraiserNode::PopulateAppraiserNodeUsingXML] Finally, searching arrives at leaf node.
+ 13:10:31.510, Info      [AppraiserNode::PopulateAppraiserNodeUsingXML] Current system is 64bits.
+ 13:10:31.510, Info      [AppraiserNode::PopulateAppraiserNodeUsingXML] Node name is Device, blocktype is None.
+ 13:10:31.510, Info      [AppraiserNode::PopulateAppraiserNodeUsingXML] Node name is Device, GetAppraiserResult finished, hr = 0x0.
+ 13:10:31.510, Info      [AppraiserNode::PopulateAppraiserNodeUsingXML] Node name is Devices, GetAppraiserResult finished, hr = 0x0.
+ 13:10:31.510, Info      [AppraiserNode::PopulateAppraiserNodeUsingXML] Node name is CloudBlocks, GetAppraiserResult finished, hr = 0x0.
+ 13:10:31.510, Info      [AppraiserNode::PopulateAppraiserNodeUsingXML] Node name is UpgradeAdvisorReport, GetAppraiserResult finished, hr = 0x0.
+ 13:10:31.510, Info      [TelemetryUpgrade::CanSendTelemetry]  Telemetry allowed through locale setting.
+ 13:10:31.510, Info      [TelemetryUpgrade::TelemetryBasedOnWER::CEIPCheck]  Begin to check CEIP.
+ 13:10:31.510, Warning   [TelemetryUpgrade::RegCheck]  RegQueryValueEx failed! key is CEIPEnable, Error is 2
+ 13:10:31.510, Info      [TelemetryUpgrade::CheckInternet]  Begin to check Internet setting.
+ 13:10:31.510, Info      [TelemetryUpgrade::RegCheck]  Open an existing reg key 80000001\Software\Microsoft\Windows\CurrentVersion\Internet Settings.
+ 13:10:31.510, Info      [TelemetryUpgrade::RegCheck]  Reg check passed.
+ 13:10:31.510, Info      [TelemetryUpgrade::TelemetryBasedOnWER::WERCheck]  Begin to check WER settings.
+ 13:10:31.511, Info      [TelemetryUpgrade::RegCheck]  New an reg key 80000002\SOFTWARE\Policies\Microsoft\Windows\Windows Error Reporting.
+ 13:10:31.513, Info      [TelemetryUpgrade::RegCheck]  Reg check passed.
+ 13:10:31.513, Info      [TelemetryUpgrade::RegCheck]  Open an existing reg key 80000002\SOFTWARE\Policies\Microsoft\Windows\Windows Error Reporting.
+ 13:10:31.513, Warning   [TelemetryUpgrade::RegCheck]  RegQueryValueEx failed! key is DontSendAdditionalData, Error is 2
+ 13:10:31.513, Info      [TelemetryUpgrade::RegCheck]  Try to new a value here.
+ 13:10:31.514, Info      [TelemetryUpgrade::RegCheck]  Reg check passed.
+ 13:10:31.514, Info      [TelemetryUpgrade::RegCheck]  Open an existing reg key 80000002\SOFTWARE\Policies\Microsoft\Windows\Windows Error Reporting.
+ 13:10:31.514, Warning   [TelemetryUpgrade::RegCheck]  RegQueryValueEx failed! key is BypassPowerThrottling, Error is 2
+ 13:10:31.514, Info      [TelemetryUpgrade::RegCheck]  Try to new a value here.
+ 13:10:31.515, Info      [TelemetryUpgrade::RegCheck]  Reg check passed.
+ 13:10:31.515, Info      [TelemetryUpgrade::RegCheck]  Open an existing reg key 80000002\SOFTWARE\Policies\Microsoft\Windows\Windows Error Reporting.
+ 13:10:31.516, Warning   [TelemetryUpgrade::RegCheck]  RegQueryValueEx failed! key is BypassNetworkCostThrottling, Error is 2
+ 13:10:31.516, Info      [TelemetryUpgrade::RegCheck]  Try to new a value here.
+ 13:10:31.517, Info      [TelemetryUpgrade::RegCheck]  Reg check passed.
+ 13:10:31.517, Info      [TelemetryUpgrade::TelemetryBasedOnWER::RemoveCorporateWerServerForWER]  Begin to check WER settings for WER server.
+ 13:10:31.521, Info      [TelemetryUpgrade::TelemetryBasedOnWER::SendData]  Watson report parameters: 
+	P1 = CompatCheck
+	P2 = None
+	P3 = NULL
+	P4 = 6.1 (7601),Service Pack 1,1
+	P5 = {39FCD84D-7233-4218-BE1F-9E6C5CD8B208}
+	P6 = Unknown
+	P7 = 1.4.9200.17295
+	P8 = Undefined
+	P9 = Undefined
+	P10 = Undefined.
+ 13:10:31.521, Info      [TelemetryUpgrade::TelemetryData::GenerateReport]  Start create watson report...
+ 13:10:31.522, Info      [TelemetryUpgrade::TelemetryData::GenerateReport]  Create watson report succeed!
+ 13:10:31.522, Info      [TelemetryUpgrade::TelemetryData::GenerateReport]  End create watson report...
+ 13:10:31.522, Info      [TelemetryUpgrade::TelemetryBasedOnWER::SendData]  Add report file C:\$GetCurrent\Logs\compatcheck_2016_07_10_13_10_17_305.rpt.
+ 13:10:31.522, Info      [_AddFilesToCab] Find file compatcheck_2016_07_10_13_10_17_305.rpt, prepare to add to .cab.
+ 13:10:31.570, Info      [TelemetryUpgrade::TelemetryBasedOnWER::SendData]  WerReportSubmit result is 8.

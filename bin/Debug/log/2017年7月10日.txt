@@ -1,0 +1,458 @@
+# 2017/7/10 11:35:31 开始上传文件夹到HDFS服务器
+
+
+# 本地文件路径: D:\Videos\video-jinzhenen
+
+
+# 保存到HDFS服务器目录: video-jinzhenen
+
+
+
+
+
+2017/7/10 11:35:31 创建目录video-jinzhenen成功
+
+
+
+
+
+2017/7/10 11:35:31 服务器返回错误: 远程服务器返回错误: (403) 已禁止。
+
+
+
+
+
+2017/7/10 11:35:31 开始保存视频元数据信息到MYSQL数据库
+
+
+2017/7/10 11:35:31 保存视频元数据信息到MYSQL数据库完成
+
+
+
+
+
+2017/7/10 11:35:31 服务器返回错误: 远程服务器返回错误: (403) 已禁止。
+
+
+
+
+
+2017/7/10 11:35:31 开始保存视频元数据信息到MYSQL数据库
+
+
+2017/7/10 11:35:31 保存视频元数据信息到MYSQL数据库完成
+
+
+错误：Newtonsoft.Json.JsonReaderException: Unexpected character encountered while parsing value: O. Path '_id', line 1, position 8.
+   在 Newtonsoft.Json.JsonTextReader.ParseValue()
+   在 Newtonsoft.Json.JsonTextReader.Read()
+   在 Newtonsoft.Json.Linq.JContainer.ReadContentFrom(JsonReader r, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JContainer.ReadTokenFrom(JsonReader reader, JsonLoadSettings options)
+   在 Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JObject.Parse(String json)
+   在 VisTool.serverConnector.uploadVideoMeta2MySQL(String videoPath, Boolean bSuccess, String info, String& message) 位置 d:\Works_ISA\VisTool\VisWebService\serverConnector.cs:行号 496
+
+
+
+
+
+2017/7/10 11:35:31 服务器返回错误: 远程服务器返回错误: (403) 已禁止。
+
+
+
+
+
+2017/7/10 11:35:31 开始保存视频元数据信息到MYSQL数据库
+
+
+2017/7/10 11:35:31 保存视频元数据信息到MYSQL数据库完成
+
+
+错误：Newtonsoft.Json.JsonReaderException: Unexpected character encountered while parsing value: O. Path '_id', line 1, position 8.
+   在 Newtonsoft.Json.JsonTextReader.ParseValue()
+   在 Newtonsoft.Json.JsonTextReader.Read()
+   在 Newtonsoft.Json.Linq.JContainer.ReadContentFrom(JsonReader r, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JContainer.ReadTokenFrom(JsonReader reader, JsonLoadSettings options)
+   在 Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JObject.Parse(String json)
+   在 VisTool.serverConnector.uploadVideoMeta2MySQL(String videoPath, Boolean bSuccess, String info, String& message) 位置 d:\Works_ISA\VisTool\VisWebService\serverConnector.cs:行号 496
+
+
+
+
+
+2017/7/10 11:35:31 服务器返回错误: 远程服务器返回错误: (403) 已禁止。
+
+
+
+
+
+2017/7/10 11:35:31 开始保存视频元数据信息到MYSQL数据库
+
+
+2017/7/10 11:35:31 保存视频元数据信息到MYSQL数据库完成
+
+
+错误：Newtonsoft.Json.JsonReaderException: Unexpected character encountered while parsing value: O. Path '_id', line 1, position 8.
+   在 Newtonsoft.Json.JsonTextReader.ParseValue()
+   在 Newtonsoft.Json.JsonTextReader.Read()
+   在 Newtonsoft.Json.Linq.JContainer.ReadContentFrom(JsonReader r, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JContainer.ReadTokenFrom(JsonReader reader, JsonLoadSettings options)
+   在 Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JObject.Parse(String json)
+   在 VisTool.serverConnector.uploadVideoMeta2MySQL(String videoPath, Boolean bSuccess, String info, String& message) 位置 d:\Works_ISA\VisTool\VisWebService\serverConnector.cs:行号 496
+
+
+
+
+
+2017/7/10 11:35:31 服务器返回错误: 远程服务器返回错误: (403) 已禁止。
+
+
+
+
+
+2017/7/10 11:35:31 开始保存视频元数据信息到MYSQL数据库
+
+
+2017/7/10 11:35:32 保存视频元数据信息到MYSQL数据库完成
+
+
+错误：Newtonsoft.Json.JsonReaderException: Unexpected character encountered while parsing value: O. Path '_id', line 1, position 8.
+   在 Newtonsoft.Json.JsonTextReader.ParseValue()
+   在 Newtonsoft.Json.JsonTextReader.Read()
+   在 Newtonsoft.Json.Linq.JContainer.ReadContentFrom(JsonReader r, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JContainer.ReadTokenFrom(JsonReader reader, JsonLoadSettings options)
+   在 Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JObject.Parse(String json)
+   在 VisTool.serverConnector.uploadVideoMeta2MySQL(String videoPath, Boolean bSuccess, String info, String& message) 位置 d:\Works_ISA\VisTool\VisWebService\serverConnector.cs:行号 496
+
+
+
+
+
+2017/7/10 11:35:32 服务器返回错误: 远程服务器返回错误: (403) 已禁止。
+
+
+
+
+
+2017/7/10 11:35:32 开始保存视频元数据信息到MYSQL数据库
+
+
+2017/7/10 11:35:32 保存视频元数据信息到MYSQL数据库完成
+
+
+错误：Newtonsoft.Json.JsonReaderException: Unexpected character encountered while parsing value: O. Path '_id', line 1, position 8.
+   在 Newtonsoft.Json.JsonTextReader.ParseValue()
+   在 Newtonsoft.Json.JsonTextReader.Read()
+   在 Newtonsoft.Json.Linq.JContainer.ReadContentFrom(JsonReader r, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JContainer.ReadTokenFrom(JsonReader reader, JsonLoadSettings options)
+   在 Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JObject.Parse(String json)
+   在 VisTool.serverConnector.uploadVideoMeta2MySQL(String videoPath, Boolean bSuccess, String info, String& message) 位置 d:\Works_ISA\VisTool\VisWebService\serverConnector.cs:行号 496
+
+
+
+
+
+2017/7/10 11:35:32 服务器返回错误: 远程服务器返回错误: (403) 已禁止。
+
+
+
+
+
+2017/7/10 11:35:32 开始保存视频元数据信息到MYSQL数据库
+
+
+2017/7/10 11:35:32 保存视频元数据信息到MYSQL数据库完成
+
+
+错误：Newtonsoft.Json.JsonReaderException: Unexpected character encountered while parsing value: O. Path '_id', line 1, position 8.
+   在 Newtonsoft.Json.JsonTextReader.ParseValue()
+   在 Newtonsoft.Json.JsonTextReader.Read()
+   在 Newtonsoft.Json.Linq.JContainer.ReadContentFrom(JsonReader r, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JContainer.ReadTokenFrom(JsonReader reader, JsonLoadSettings options)
+   在 Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JObject.Parse(String json)
+   在 VisTool.serverConnector.uploadVideoMeta2MySQL(String videoPath, Boolean bSuccess, String info, String& message) 位置 d:\Works_ISA\VisTool\VisWebService\serverConnector.cs:行号 496
+
+
+
+
+
+2017/7/10 11:35:32 服务器返回错误: 远程服务器返回错误: (403) 已禁止。
+
+
+
+
+
+2017/7/10 11:35:32 开始保存视频元数据信息到MYSQL数据库
+
+
+2017/7/10 11:35:32 保存视频元数据信息到MYSQL数据库完成
+
+
+错误：Newtonsoft.Json.JsonReaderException: Unexpected character encountered while parsing value: O. Path '_id', line 1, position 8.
+   在 Newtonsoft.Json.JsonTextReader.ParseValue()
+   在 Newtonsoft.Json.JsonTextReader.Read()
+   在 Newtonsoft.Json.Linq.JContainer.ReadContentFrom(JsonReader r, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JContainer.ReadTokenFrom(JsonReader reader, JsonLoadSettings options)
+   在 Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JObject.Parse(String json)
+   在 VisTool.serverConnector.uploadVideoMeta2MySQL(String videoPath, Boolean bSuccess, String info, String& message) 位置 d:\Works_ISA\VisTool\VisWebService\serverConnector.cs:行号 496
+
+
+
+
+
+2017/7/10 11:35:32 服务器返回错误: 远程服务器返回错误: (403) 已禁止。
+
+
+
+
+
+2017/7/10 11:35:32 开始保存视频元数据信息到MYSQL数据库
+
+
+2017/7/10 11:35:32 保存视频元数据信息到MYSQL数据库完成
+
+
+错误：Newtonsoft.Json.JsonReaderException: Unexpected character encountered while parsing value: O. Path '_id', line 1, position 8.
+   在 Newtonsoft.Json.JsonTextReader.ParseValue()
+   在 Newtonsoft.Json.JsonTextReader.Read()
+   在 Newtonsoft.Json.Linq.JContainer.ReadContentFrom(JsonReader r, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JContainer.ReadTokenFrom(JsonReader reader, JsonLoadSettings options)
+   在 Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JObject.Parse(String json)
+   在 VisTool.serverConnector.uploadVideoMeta2MySQL(String videoPath, Boolean bSuccess, String info, String& message) 位置 d:\Works_ISA\VisTool\VisWebService\serverConnector.cs:行号 496
+
+
+
+
+
+2017/7/10 11:35:32 服务器返回错误: 远程服务器返回错误: (403) 已禁止。
+
+
+
+
+
+2017/7/10 11:35:32 开始保存视频元数据信息到MYSQL数据库
+
+
+2017/7/10 11:35:33 保存视频元数据信息到MYSQL数据库完成
+
+
+错误：Newtonsoft.Json.JsonReaderException: Unexpected character encountered while parsing value: O. Path '_id', line 1, position 8.
+   在 Newtonsoft.Json.JsonTextReader.ParseValue()
+   在 Newtonsoft.Json.JsonTextReader.Read()
+   在 Newtonsoft.Json.Linq.JContainer.ReadContentFrom(JsonReader r, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JContainer.ReadTokenFrom(JsonReader reader, JsonLoadSettings options)
+   在 Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JObject.Parse(String json)
+   在 VisTool.serverConnector.uploadVideoMeta2MySQL(String videoPath, Boolean bSuccess, String info, String& message) 位置 d:\Works_ISA\VisTool\VisWebService\serverConnector.cs:行号 496
+
+
+
+
+
+2017/7/10 11:35:33 服务器返回错误: 远程服务器返回错误: (403) 已禁止。
+
+
+
+
+
+2017/7/10 11:35:33 开始保存视频元数据信息到MYSQL数据库
+
+
+2017/7/10 11:35:33 保存视频元数据信息到MYSQL数据库完成
+
+
+错误：Newtonsoft.Json.JsonReaderException: Unexpected character encountered while parsing value: O. Path '_id', line 1, position 8.
+   在 Newtonsoft.Json.JsonTextReader.ParseValue()
+   在 Newtonsoft.Json.JsonTextReader.Read()
+   在 Newtonsoft.Json.Linq.JContainer.ReadContentFrom(JsonReader r, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JContainer.ReadTokenFrom(JsonReader reader, JsonLoadSettings options)
+   在 Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JObject.Parse(String json)
+   在 VisTool.serverConnector.uploadVideoMeta2MySQL(String videoPath, Boolean bSuccess, String info, String& message) 位置 d:\Works_ISA\VisTool\VisWebService\serverConnector.cs:行号 496
+
+
+
+
+
+2017/7/10 11:35:33 服务器返回错误: 远程服务器返回错误: (403) 已禁止。
+
+
+
+
+
+2017/7/10 11:35:33 开始保存视频元数据信息到MYSQL数据库
+
+
+2017/7/10 11:35:33 保存视频元数据信息到MYSQL数据库完成
+
+
+错误：Newtonsoft.Json.JsonReaderException: Unexpected character encountered while parsing value: O. Path '_id', line 1, position 8.
+   在 Newtonsoft.Json.JsonTextReader.ParseValue()
+   在 Newtonsoft.Json.JsonTextReader.Read()
+   在 Newtonsoft.Json.Linq.JContainer.ReadContentFrom(JsonReader r, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JContainer.ReadTokenFrom(JsonReader reader, JsonLoadSettings options)
+   在 Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JObject.Parse(String json)
+   在 VisTool.serverConnector.uploadVideoMeta2MySQL(String videoPath, Boolean bSuccess, String info, String& message) 位置 d:\Works_ISA\VisTool\VisWebService\serverConnector.cs:行号 496
+
+
+
+
+
+2017/7/10 11:35:33 服务器返回错误: 远程服务器返回错误: (403) 已禁止。
+
+
+
+
+
+2017/7/10 11:35:33 开始保存视频元数据信息到MYSQL数据库
+
+
+2017/7/10 11:35:33 保存视频元数据信息到MYSQL数据库完成
+
+
+错误：Newtonsoft.Json.JsonReaderException: Unexpected character encountered while parsing value: O. Path '_id', line 1, position 8.
+   在 Newtonsoft.Json.JsonTextReader.ParseValue()
+   在 Newtonsoft.Json.JsonTextReader.Read()
+   在 Newtonsoft.Json.Linq.JContainer.ReadContentFrom(JsonReader r, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JContainer.ReadTokenFrom(JsonReader reader, JsonLoadSettings options)
+   在 Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JObject.Parse(String json)
+   在 VisTool.serverConnector.uploadVideoMeta2MySQL(String videoPath, Boolean bSuccess, String info, String& message) 位置 d:\Works_ISA\VisTool\VisWebService\serverConnector.cs:行号 496
+
+
+
+
+
+2017/7/10 11:35:33 服务器返回错误: 远程服务器返回错误: (403) 已禁止。
+
+
+
+
+
+2017/7/10 11:35:33 开始保存视频元数据信息到MYSQL数据库
+
+
+2017/7/10 11:35:33 保存视频元数据信息到MYSQL数据库完成
+
+
+错误：Newtonsoft.Json.JsonReaderException: Unexpected character encountered while parsing value: O. Path '_id', line 1, position 8.
+   在 Newtonsoft.Json.JsonTextReader.ParseValue()
+   在 Newtonsoft.Json.JsonTextReader.Read()
+   在 Newtonsoft.Json.Linq.JContainer.ReadContentFrom(JsonReader r, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JContainer.ReadTokenFrom(JsonReader reader, JsonLoadSettings options)
+   在 Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JObject.Parse(String json)
+   在 VisTool.serverConnector.uploadVideoMeta2MySQL(String videoPath, Boolean bSuccess, String info, String& message) 位置 d:\Works_ISA\VisTool\VisWebService\serverConnector.cs:行号 496
+
+
+
+
+
+2017/7/10 11:35:33 服务器返回错误: 远程服务器返回错误: (403) 已禁止。
+
+
+
+
+
+2017/7/10 11:35:33 开始保存视频元数据信息到MYSQL数据库
+
+
+2017/7/10 11:35:34 保存视频元数据信息到MYSQL数据库完成
+
+
+错误：Newtonsoft.Json.JsonReaderException: Unexpected character encountered while parsing value: O. Path '_id', line 1, position 8.
+   在 Newtonsoft.Json.JsonTextReader.ParseValue()
+   在 Newtonsoft.Json.JsonTextReader.Read()
+   在 Newtonsoft.Json.Linq.JContainer.ReadContentFrom(JsonReader r, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JContainer.ReadTokenFrom(JsonReader reader, JsonLoadSettings options)
+   在 Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JObject.Parse(String json)
+   在 VisTool.serverConnector.uploadVideoMeta2MySQL(String videoPath, Boolean bSuccess, String info, String& message) 位置 d:\Works_ISA\VisTool\VisWebService\serverConnector.cs:行号 496
+
+
+
+
+
+2017/7/10 11:35:34 服务器返回错误: 远程服务器返回错误: (403) 已禁止。
+
+
+
+
+
+2017/7/10 11:35:34 开始保存视频元数据信息到MYSQL数据库
+
+
+2017/7/10 11:35:34 保存视频元数据信息到MYSQL数据库完成
+
+
+错误：Newtonsoft.Json.JsonReaderException: Unexpected character encountered while parsing value: O. Path '_id', line 1, position 8.
+   在 Newtonsoft.Json.JsonTextReader.ParseValue()
+   在 Newtonsoft.Json.JsonTextReader.Read()
+   在 Newtonsoft.Json.Linq.JContainer.ReadContentFrom(JsonReader r, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JContainer.ReadTokenFrom(JsonReader reader, JsonLoadSettings options)
+   在 Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JObject.Parse(String json)
+   在 VisTool.serverConnector.uploadVideoMeta2MySQL(String videoPath, Boolean bSuccess, String info, String& message) 位置 d:\Works_ISA\VisTool\VisWebService\serverConnector.cs:行号 496
+
+
+
+
+
+2017/7/10 11:35:34 服务器返回错误: 远程服务器返回错误: (403) 已禁止。
+
+
+
+
+
+2017/7/10 11:35:34 开始保存视频元数据信息到MYSQL数据库
+
+
+2017/7/10 11:35:34 保存视频元数据信息到MYSQL数据库完成
+
+
+错误：Newtonsoft.Json.JsonReaderException: Unexpected character encountered while parsing value: O. Path '_id', line 1, position 8.
+   在 Newtonsoft.Json.JsonTextReader.ParseValue()
+   在 Newtonsoft.Json.JsonTextReader.Read()
+   在 Newtonsoft.Json.Linq.JContainer.ReadContentFrom(JsonReader r, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JContainer.ReadTokenFrom(JsonReader reader, JsonLoadSettings options)
+   在 Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JObject.Parse(String json)
+   在 VisTool.serverConnector.uploadVideoMeta2MySQL(String videoPath, Boolean bSuccess, String info, String& message) 位置 d:\Works_ISA\VisTool\VisWebService\serverConnector.cs:行号 496
+
+
+
+
+
+2017/7/10 11:35:34 服务器返回错误: 远程服务器返回错误: (403) 已禁止。
+
+
+
+
+
+2017/7/10 11:35:34 开始保存视频元数据信息到MYSQL数据库
+
+

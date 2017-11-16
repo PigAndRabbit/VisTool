@@ -1,0 +1,41 @@
+<html>
+<head>
+<title>My First chart using FusionCharts Suite XT</title>
+<script type="text/javascript" src="fusioncharts.js"></script>
+<script type="text/javascript" src="fusioncharts.theme.fint.js"></script>
+<script type="text/javascript">
+    var myChart;
+function DrawChart(data,type,lagu)
+{
+    myChart = new FusionCharts({
+        "type": type,
+        "renderAt": "chartContainer",
+        "width": "500",
+        "height": "300",
+        "dataFormat": "xml"
+    });
+    myChart.setChartData(data, lagu);
+
+    myChart.addEventListener("dataplotRollOver", function (eventObj, dataObj) {
+        var label = dataObj.categoryLabel;
+        var value = dataObj.value;
+        childChart = new FusionCharts({
+            "type": 
+        });
+    });
+
+
+    myChart.render("ClassChart");
+
+
+}
+
+</script>
+</head>
+<body>
+  <div "style="width:90%; margin:0 auto; overflow:auto; _display:inline-block;"> 
+    <div id="ClassChart" style="display:inline-block; float:left;">这是左侧的内容 固定宽度</div> 
+    <div id="TagChart" style="padding:5px; font-size:11px; display:inline-block; float:left; clear:right">中间内容，自适应宽度</div> 
+</div> 
+</body>
+</html>

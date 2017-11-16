@@ -1,0 +1,4 @@
+/home/hadoop/bigdata/hadoop/sbin/
+./start-dfs.sh
+./start-yarn.sh
+

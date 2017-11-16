@@ -1,0 +1,6 @@
+<chart caption="Split of revenue by product categories" subcaption="Last year" numberprefix="$" showpercentintooltip="0" decimals="1" usedataplotcolorforlabels="1" theme="fint">
+    <set label="Food" value="285040" />
+    <set label="Apparels" value="146330" />
+    <set label="Electronics" value="105070" />
+    <set label="Household" value="49100" />
+</chart>

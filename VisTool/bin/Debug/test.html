@@ -1,0 +1,30 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>jquery动态改变div宽度和高度-柯乐义</title>
+<script type="text/javascript" src="http://keleyi.com/keleyi/pmedia/jquery/jquery-1.11.2.min.js"></script>
+</head>
+<body>
+<div>
+<input id="addwidthkeleyi" value="增加宽度" type="button" />
+<input id="reducewidthkeleyi" value="减少宽度" type="button" />
+<input id="addheightkeleyi" value="增加高度" type="button" />
+<input id="reduceheightkeleyi" value="减少高度" type="button" />
+<a href="http://keleyi.com/a/bjad/tar6g4m7.htm" target="_blank">原文</a> <a href="http://keleyi.com/">首页</a> <a href="http://keleyi.com/keleyi/phtml/">特效库</a> 点击按钮，注意下方div宽高的变化</div>
+<div style="border:1px solid #999;width:200px;height:200px" id="keleyidiv"></div>
+<script type="text/javascript">
+$("#addwidthke"+"leyi").on("click", function () {
+$("#keleyidiv").width($("#keley" + "idiv").width() + 50);
+});
+$("#reducewidthk" + "eleyi").on("click", function () {
+$("#keleyidiv").width($("#kel"+"eyidiv").width() - 50);
+});
+$("#addheightkele" + "yi").on("click", function () {
+$("#kel" + "eyidiv").height($("#keleyidiv").height() + 50);
+});
+$("#reduceheightkeley" + "i").on("click", function () {
+$("#keleyidiv").height($("#keleyidiv").height() - 50);
+});
+</script>
+</body>
+</html>

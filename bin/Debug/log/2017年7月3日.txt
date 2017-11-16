@@ -1,0 +1,239 @@
+# 2017/7/3 15:22:10 开始上传文件夹到HDFS服务器
+
+
+# 本地文件路径: D:\Videos\video-jinzhenen
+
+
+# 保存到HDFS服务器目录: video-jinzhenen
+
+
+
+
+
+2017/7/3 15:22:16 创建目录video-jinzhenen成功
+
+
+
+
+
+2017/7/3 15:22:16 HDFS服务器分配节点
+
+
+
+2017/7/3 15:22:16 开始向节点slave01上传数据 D:\Videos\video-jinzhenen\《24小时》 朝媒金正恩指导发射新试验导弹.flv
+
+
+
+2017/7/3 15:22:16 数据上传完成，服务器路径hdfs://master:9000/video-jinzhenen/
+
+
+
+
+
+2017/7/3 15:22:16 开始保存视频元数据信息到MYSQL数据库
+
+
+2017/7/3 15:22:17 保存视频元数据信息到MYSQL数据库完成
+
+
+
+
+
+2017/7/3 15:22:17 HDFS服务器分配节点
+
+
+
+2017/7/3 15:22:17 开始向节点slave01上传数据 D:\Videos\video-jinzhenen\《24小时》 金正恩鼓励建菜棚 冬季供新鲜菜.flv
+
+
+
+2017/7/3 15:22:17 数据上传完成，服务器路径hdfs://master:9000/video-jinzhenen/
+
+
+
+
+
+2017/7/3 15:22:17 开始保存视频元数据信息到MYSQL数据库
+
+
+2017/7/3 15:22:18 保存视频元数据信息到MYSQL数据库完成
+
+
+错误：Newtonsoft.Json.JsonReaderException: Unexpected character encountered while parsing value: O. Path '_id', line 1, position 8.
+   在 Newtonsoft.Json.JsonTextReader.ParseValue()
+   在 Newtonsoft.Json.JsonTextReader.Read()
+   在 Newtonsoft.Json.Linq.JContainer.ReadContentFrom(JsonReader r, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JContainer.ReadTokenFrom(JsonReader reader, JsonLoadSettings options)
+   在 Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JObject.Parse(String json)
+   在 VisTool.serverConnector.uploadVideoMeta2MySQL(String videoPath, Boolean bSuccess, String info, String& message) 位置 d:\Works_ISA\VisTool\VisWebService\serverConnector.cs:行号 472
+
+
+
+
+
+2017/7/3 15:22:18 HDFS服务器分配节点
+
+
+
+2017/7/3 15:22:18 开始向节点slave01上传数据 D:\Videos\video-jinzhenen\《24小时》 韩媒称金正恩已消失两周.flv
+
+
+
+2017/7/3 15:22:19 数据上传完成，服务器路径hdfs://master:9000/video-jinzhenen/
+
+
+
+
+
+2017/7/3 15:22:19 开始保存视频元数据信息到MYSQL数据库
+
+
+2017/7/3 15:22:19 保存视频元数据信息到MYSQL数据库完成
+
+
+错误：Newtonsoft.Json.JsonReaderException: Unexpected character encountered while parsing value: O. Path '_id', line 1, position 8.
+   在 Newtonsoft.Json.JsonTextReader.ParseValue()
+   在 Newtonsoft.Json.JsonTextReader.Read()
+   在 Newtonsoft.Json.Linq.JContainer.ReadContentFrom(JsonReader r, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JContainer.ReadTokenFrom(JsonReader reader, JsonLoadSettings options)
+   在 Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JObject.Parse(String json)
+   在 VisTool.serverConnector.uploadVideoMeta2MySQL(String videoPath, Boolean bSuccess, String info, String& message) 位置 d:\Works_ISA\VisTool\VisWebService\serverConnector.cs:行号 472
+
+
+
+
+
+2017/7/3 15:22:19 HDFS服务器分配节点
+
+
+
+2017/7/3 15:22:19 开始向节点slave01上传数据 D:\Videos\video-jinzhenen\《CQTV早新闻》 NBA退役球星罗德曼为金正恩庆生.flv
+
+
+
+2017/7/3 15:22:19 数据上传完成，服务器路径hdfs://master:9000/video-jinzhenen/
+
+
+
+
+
+2017/7/3 15:22:19 开始保存视频元数据信息到MYSQL数据库
+
+
+2017/7/3 15:22:20 保存视频元数据信息到MYSQL数据库完成
+
+
+错误：Newtonsoft.Json.JsonReaderException: Unexpected character encountered while parsing value: O. Path '_id', line 1, position 8.
+   在 Newtonsoft.Json.JsonTextReader.ParseValue()
+   在 Newtonsoft.Json.JsonTextReader.Read()
+   在 Newtonsoft.Json.Linq.JContainer.ReadContentFrom(JsonReader r, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JContainer.ReadTokenFrom(JsonReader reader, JsonLoadSettings options)
+   在 Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JObject.Parse(String json)
+   在 VisTool.serverConnector.uploadVideoMeta2MySQL(String videoPath, Boolean bSuccess, String info, String& message) 位置 d:\Works_ISA\VisTool\VisWebService\serverConnector.cs:行号 472
+
+
+
+
+
+2017/7/3 15:22:20 HDFS服务器分配节点
+
+
+
+2017/7/3 15:22:20 开始向节点slave01上传数据 D:\Videos\video-jinzhenen\《CQTV早新闻》 金正恩发表新年讲话提出新年施政方针.flv
+
+
+
+2017/7/3 15:22:20 数据上传完成，服务器路径hdfs://master:9000/video-jinzhenen/
+
+
+
+
+
+2017/7/3 15:22:20 开始保存视频元数据信息到MYSQL数据库
+
+
+2017/7/3 15:22:20 保存视频元数据信息到MYSQL数据库完成
+
+
+错误：Newtonsoft.Json.JsonReaderException: Unexpected character encountered while parsing value: O. Path '_id', line 1, position 8.
+   在 Newtonsoft.Json.JsonTextReader.ParseValue()
+   在 Newtonsoft.Json.JsonTextReader.Read()
+   在 Newtonsoft.Json.Linq.JContainer.ReadContentFrom(JsonReader r, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JContainer.ReadTokenFrom(JsonReader reader, JsonLoadSettings options)
+   在 Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JObject.Parse(String json)
+   在 VisTool.serverConnector.uploadVideoMeta2MySQL(String videoPath, Boolean bSuccess, String info, String& message) 位置 d:\Works_ISA\VisTool\VisWebService\serverConnector.cs:行号 472
+
+
+
+
+
+2017/7/3 15:22:20 HDFS服务器分配节点
+
+
+
+2017/7/3 15:22:21 开始向节点slave01上传数据 D:\Videos\video-jinzhenen\《CQTV早新闻》 金正恩呼吁改善北南关系.flv
+
+
+
+2017/7/3 15:22:21 数据上传完成，服务器路径hdfs://master:9000/video-jinzhenen/
+
+
+
+
+
+2017/7/3 15:22:21 开始保存视频元数据信息到MYSQL数据库
+
+
+2017/7/3 15:22:21 保存视频元数据信息到MYSQL数据库完成
+
+
+错误：Newtonsoft.Json.JsonReaderException: Unexpected character encountered while parsing value: O. Path '_id', line 1, position 8.
+   在 Newtonsoft.Json.JsonTextReader.ParseValue()
+   在 Newtonsoft.Json.JsonTextReader.Read()
+   在 Newtonsoft.Json.Linq.JContainer.ReadContentFrom(JsonReader r, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JContainer.ReadTokenFrom(JsonReader reader, JsonLoadSettings options)
+   在 Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JObject.Parse(String json)
+   在 VisTool.serverConnector.uploadVideoMeta2MySQL(String videoPath, Boolean bSuccess, String info, String& message) 位置 d:\Works_ISA\VisTool\VisWebService\serverConnector.cs:行号 472
+
+
+
+
+
+2017/7/3 15:22:21 HDFS服务器分配节点
+
+
+
+2017/7/3 15:22:21 开始向节点slave01上传数据 D:\Videos\video-jinzhenen\《CQTV早新闻》 金正恩说朝鲜拥有核弹和氢弹.flv
+
+
+
+2017/7/3 15:22:21 数据上传完成，服务器路径hdfs://master:9000/video-jinzhenen/
+
+
+
+
+
+2017/7/3 15:22:21 开始保存视频元数据信息到MYSQL数据库
+
+
+2017/7/3 15:22:22 保存视频元数据信息到MYSQL数据库完成
+
+
+错误：Newtonsoft.Json.JsonReaderException: Unexpected character encountered while parsing value: O. Path '_id', line 1, position 8.
+   在 Newtonsoft.Json.JsonTextReader.ParseValue()
+   在 Newtonsoft.Json.JsonTextReader.Read()
+   在 Newtonsoft.Json.Linq.JContainer.ReadContentFrom(JsonReader r, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JContainer.ReadTokenFrom(JsonReader reader, JsonLoadSettings options)
+   在 Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JObject.Par

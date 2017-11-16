@@ -1,0 +1,17 @@
+D:\Works_ISA\VisTool\VisWebService\bin\Debug\VisWebService.dll
+D:\Works_ISA\VisTool\VisWebService\bin\Debug\VisWebService.pdb
+D:\Works_ISA\VisTool\VisWebService\obj\Debug\VisWebService.dll
+D:\Works_ISA\VisTool\VisWebService\obj\Debug\VisWebService.pdb
+D:\Works_ISA\VisTool\bin\Debug\VisWebService.dll
+D:\Works_ISA\VisTool\bin\Debug\VisWebService.pdb
+D:\Works_ISA\VisTool\VisWebService\obj\Debug\VisWebService.csprojResolveAssemblyReference.cache
+E:\Works\VisTool\bin\Debug\VisWebService.dll
+E:\Works\VisTool\bin\Debug\VisWebService.pdb
+E:\Works\VisTool\VisWebService\obj\Debug\VisWebService.csprojResolveAssemblyReference.cache
+E:\Works\VisTool\VisWebService\obj\Debug\VisWebService.dll
+E:\Works\VisTool\VisWebService\obj\Debug\VisWebService.pdb
+E:\share\VisTool\bin\Debug\VisWebService.dll
+E:\share\VisTool\bin\Debug\VisWebService.pdb
+E:\share\VisTool\VisWebService\obj\Debug\VisWebService.csprojResolveAssemblyReference.cache
+E:\share\VisTool\VisWebService\obj\Debug\VisWebService.dll
+E:\share\VisTool\VisWebService\obj\Debug\VisWebService.pdb

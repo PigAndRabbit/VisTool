@@ -1,0 +1,110 @@
+# 开始上传文件夹到计算节点
+
+# 本地文件夹路径: D:\Works_ISA\VisTool\Video
+
+2017/3/16 15:57:55 开始上传文件: D:\Works_ISA\VisTool\Video\test1.flv
+
+2017/3/16 15:57:56 文件:D:\Works_ISA\VisTool\Video\test1.flv上传完成
+
+# 上传文件夹到计算节点完成
+
+
+
+# 开始保存视频元数据信息到MYSQL数据库
+
+# 保存视频元数据信息到MYSQL数据库完成
+
+
+
+# 开始上传文件夹到计算节点
+
+# 本地文件夹路径: D:\Works_ISA\VisTool\Video
+
+2017/3/16 15:59:52 开始上传文件: D:\Works_ISA\VisTool\Video\test1.flv
+
+2017/3/16 15:59:53 文件:D:\Works_ISA\VisTool\Video\test1.flv上传完成
+
+# 上传文件夹到计算节点完成
+
+
+
+2017/3/16 15:59:53 开始保存视频元数据信息到MYSQL数据库
+
+2017/3/16 15:59:53 保存视频元数据信息到MYSQL数据库完成
+
+
+
+# 开始上传文件夹到计算节点
+
+# 本地文件夹路径: D:\Works_ISA\VisTool\Video
+
+2017/3/16 16:00:50 开始上传文件: D:\Works_ISA\VisTool\Video\test1 - 副本.flv
+
+2017/3/16 16:00:50 文件:D:\Works_ISA\VisTool\Video\test1 - 副本.flv上传完成
+
+2017/3/16 16:00:50 开始上传文件: D:\Works_ISA\VisTool\Video\test1.flv
+
+2017/3/16 16:00:51 文件:D:\Works_ISA\VisTool\Video\test1.flv上传完成
+
+# 上传文件夹到计算节点完成
+
+
+
+2017/3/16 16:00:51 开始保存视频元数据信息到MYSQL数据库
+
+2017/3/16 16:00:51 保存视频元数据信息到MYSQL数据库完成
+
+
+
+# 开始上传文件夹到计算节点
+
+# 本地文件夹路径: D:\Works_ISA\VisTool\Video
+
+2017/3/16 16:42:14 开始上传文件: D:\Works_ISA\VisTool\Video\test1 - 副本.flv
+
+2017/3/16 16:42:14 文件:D:\Works_ISA\VisTool\Video\test1 - 副本.flv上传完成
+
+2017/3/16 16:42:14 开始上传文件: D:\Works_ISA\VisTool\Video\test1.flv
+
+2017/3/16 16:42:15 文件:D:\Works_ISA\VisTool\Video\test1.flv上传完成
+
+# 上传文件夹到计算节点完成
+
+
+
+2017/3/16 16:42:15 开始保存视频元数据信息到MYSQL数据库
+
+2017/3/16 16:42:35 保存视频元数据信息到MYSQL数据库完成
+
+
+
+# 2017/3/16 16:52:01 开始上传文件夹到HDFS服务器
+
+# 本地文件路径: D:\Works_ISA\VisTool\Video
+
+# 保存到HDFS服务器目录: Video
+
+
+
+# 开始上传文件夹到计算节点
+
+# 本地文件夹路径: D:\Works_ISA\VisTool\Video
+
+2017/3/16 17:22:30 开始上传文件: D:\Works_ISA\VisTool\Video\test1 - 副本.flv
+
+2017/3/16 17:22:30 文件:D:\Works_ISA\VisTool\Video\test1 - 副本.flv上传完成
+
+2017/3/16 17:22:30 开始上传文件: D:\Works_ISA\VisTool\Video\test1.flv
+
+2017/3/16 17:22:30 文件:D:\Works_ISA\VisTool\Video\test1.flv上传完成
+
+# 上传文件夹到计算节点完成
+
+
+
+2017/3/16 17:22:30 开始保存视频元数据信息到MYSQL数据库
+
+2017/3/16 17:22:31 保存视频元数据信息到MYSQL数据库完成
+
+
+

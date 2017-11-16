@@ -1,0 +1,1465 @@
+The connection is already open.
+
+# 2017/6/29 9:20:03 开始上传文件夹到HDFS服务器
+
+
+# 本地文件路径: D:\Videos\video-jinzhenen
+
+
+# 保存到HDFS服务器目录: video-jinzhenen
+
+
+
+
+
+无法连接到远程服务器
+
+
+# 上传文件夹到HDFS服务器完成
+
+
+The connection is already open.
+
+# 2017/6/29 10:56:01 开始上传文件夹到HDFS服务器
+
+
+# 本地文件路径: D:\Videos\video-jinzhenen
+
+
+# 保存到HDFS服务器目录: video-jinzhenen
+
+
+
+
+
+2017/6/29 10:56:01 创建目录video-jinzhenen成功
+
+
+
+
+
+2017/6/29 10:56:01 HDFS服务器分配节点
+
+
+
+2017/6/29 10:56:01 开始向节点slave02上传数据 D:\Videos\video-jinzhenen\test.flv
+
+
+
+2017/6/29 10:56:02 数据上传完成，服务器路径hdfs://master:9000/video-jinzhenen/test.flv
+
+
+
+
+
+2017/6/29 10:56:12 开始保存视频元数据信息到MYSQL数据库
+
+
+2017/6/29 10:56:20 保存视频元数据信息到MYSQL数据库完成
+
+
+错误：System.IO.FileNotFoundException: 未能找到文件“D:\Videos\video-jinzhenen\test.txt”。
+文件名:“D:\Videos\video-jinzhenen\test.txt”
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   在 System.IO.StreamReader..ctor(String path)
+   在 VisTool.serverConnector.uploadVideoMeta2MySQL(String videoPath, Boolean bSuccess, String info, String& message) 位置 d:\Works_ISA\VisTool\VisWebService\serverConnector.cs:行号 459
+
+
+
+
+
+2017/6/29 10:56:20 HDFS服务器分配节点
+
+
+
+2017/6/29 10:56:20 开始向节点slave02上传数据 D:\Videos\video-jinzhenen\《24小时》 朝媒金正恩指导发射新试验导弹.flv
+
+
+
+2017/6/29 10:57:26 服务器返回错误: 服务器提交了协议冲突. Section=ResponseHeader Detail=CR 后面必须是 LF
+
+
+
+
+
+2017/6/29 10:57:33 开始保存视频元数据信息到MYSQL数据库
+
+
+2017/6/29 10:57:33 保存视频元数据信息到MYSQL数据库完成
+
+
+错误：Newtonsoft.Json.JsonReaderException: Error reading JObject from JsonReader. Path '', line 0, position 0.
+   在 Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JObject.Parse(String json)
+   在 VisTool.serverConnector.uploadVideoMeta2MySQL(String videoPath, Boolean bSuccess, String info, String& message) 位置 d:\Works_ISA\VisTool\VisWebService\serverConnector.cs:行号 453
+
+
+
+
+
+2017/6/29 10:57:33 HDFS服务器分配节点
+
+
+
+2017/6/29 10:57:33 开始向节点slave02上传数据 D:\Videos\video-jinzhenen\《24小时》 朝媒：金正恩与罗德曼观看球赛.flv
+
+
+
+2017/6/29 10:57:34 服务器返回错误: 服务器提交了协议冲突. Section=ResponseHeader Detail=CR 后面必须是 LF
+
+
+
+
+
+2017/6/29 10:57:34 开始保存视频元数据信息到MYSQL数据库
+
+
+2017/6/29 10:57:34 保存视频元数据信息到MYSQL数据库完成
+
+
+错误：Newtonsoft.Json.JsonReaderException: Error reading JObject from JsonReader. Path '', line 0, position 0.
+   在 Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JObject.Parse(String json)
+   在 VisTool.serverConnector.uploadVideoMeta2MySQL(String videoPath, Boolean bSuccess, String info, String& message) 位置 d:\Works_ISA\VisTool\VisWebService\serverConnector.cs:行号 453
+
+
+
+
+
+2017/6/29 10:57:34 HDFS服务器分配节点
+
+
+
+2017/6/29 10:57:34 开始向节点slave01上传数据 D:\Videos\video-jinzhenen\《24小时》 朝掀起学习金正恩新年贺词热潮.flv
+
+
+
+2017/6/29 10:57:35 服务器返回错误: 服务器提交了协议冲突. Section=ResponseHeader Detail=CR 后面必须是 LF
+
+
+
+
+
+2017/6/29 10:57:35 开始保存视频元数据信息到MYSQL数据库
+
+
+2017/6/29 10:57:35 保存视频元数据信息到MYSQL数据库完成
+
+
+错误：Newtonsoft.Json.JsonReaderException: Error reading JObject from JsonReader. Path '', line 0, position 0.
+   在 Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JObject.Parse(String json)
+   在 VisTool.serverConnector.uploadVideoMeta2MySQL(String videoPath, Boolean bSuccess, String info, String& message) 位置 d:\Works_ISA\VisTool\VisWebService\serverConnector.cs:行号 453
+
+
+
+
+
+2017/6/29 10:57:35 HDFS服务器分配节点
+
+
+
+2017/6/29 10:57:35 开始向节点slave02上传数据 D:\Videos\video-jinzhenen\《24小时》 朝美举行友谊赛 金正恩观赛.flv
+
+
+
+2017/6/29 10:57:36 服务器返回错误: 服务器提交了协议冲突. Section=ResponseHeader Detail=CR 后面必须是 LF
+
+
+
+
+
+2017/6/29 10:57:36 开始保存视频元数据信息到MYSQL数据库
+
+
+2017/6/29 10:57:36 保存视频元数据信息到MYSQL数据库完成
+
+
+错误：Newtonsoft.Json.JsonReaderException: Error reading JObject from JsonReader. Path '', line 0, position 0.
+   在 Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JObject.Parse(String json)
+   在 VisTool.serverConnector.uploadVideoMeta2MySQL(String videoPath, Boolean bSuccess, String info, String& message) 位置 d:\Works_ISA\VisTool\VisWebService\serverConnector.cs:行号 453
+
+
+
+
+
+2017/6/29 10:57:36 HDFS服务器分配节点
+
+
+
+2017/6/29 10:57:36 开始向节点slave01上传数据 D:\Videos\video-jinzhenen\《24小时》 贯彻金正恩战斗任务指示.flv
+
+
+
+2017/6/29 10:57:36 服务器返回错误: 服务器提交了协议冲突. Section=ResponseHeader Detail=CR 后面必须是 LF
+
+
+
+
+
+2017/6/29 10:57:36 开始保存视频元数据信息到MYSQL数据库
+
+
+2017/6/29 10:57:37 保存视频元数据信息到MYSQL数据库完成
+
+
+错误：Newtonsoft.Json.JsonReaderException: Error reading JObject from JsonReader. Path '', line 0, position 0.
+   在 Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JObject.Parse(String json)
+   在 VisTool.serverConnector.uploadVideoMeta2MySQL(String videoPath, Boolean bSuccess, String info, String& message) 位置 d:\Works_ISA\VisTool\VisWebService\serverConnector.cs:行号 453
+
+
+
+
+
+2017/6/29 10:57:37 HDFS服务器分配节点
+
+
+
+2017/6/29 10:57:37 开始向节点slave02上传数据 D:\Videos\video-jinzhenen\《24小时》 金正恩 朝鲜要更多地发射卫星.flv
+
+
+
+2017/6/29 10:57:37 服务器返回错误: 服务器提交了协议冲突. Section=ResponseHeader Detail=CR 后面必须是 LF
+
+
+
+
+
+2017/6/29 10:57:37 开始保存视频元数据信息到MYSQL数据库
+
+
+2017/6/29 10:57:37 保存视频元数据信息到MYSQL数据库完成
+
+
+错误：Newtonsoft.Json.JsonReaderException: Error reading JObject from JsonReader. Path '', line 0, position 0.
+   在 Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JObject.Parse(String json)
+   在 VisTool.serverConnector.uploadVideoMeta2MySQL(String videoPath, Boolean bSuccess, String info, String& message) 位置 d:\Works_ISA\VisTool\VisWebService\serverConnector.cs:行号 453
+
+
+
+
+
+2017/6/29 10:57:37 HDFS服务器分配节点
+
+
+
+2017/6/29 10:57:37 开始向节点slave01上传数据 D:\Videos\video-jinzhenen\《24小时》 金正恩亲笔信递到北京.flv
+
+
+
+2017/6/29 10:57:38 服务器返回错误: 服务器提交了协议冲突. Section=ResponseHeader Detail=CR 后面必须是 LF
+
+
+
+
+
+2017/6/29 10:57:38 开始保存视频元数据信息到MYSQL数据库
+
+
+2017/6/29 10:57:38 保存视频元数据信息到MYSQL数据库完成
+
+
+错误：Newtonsoft.Json.JsonReaderException: Error reading JObject from JsonReader. Path '', line 0, position 0.
+   在 Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JObject.Parse(String json)
+   在 VisTool.serverConnector.uploadVideoMeta2MySQL(String videoPath, Boolean bSuccess, String info, String& message) 位置 d:\Works_ISA\VisTool\VisWebService\serverConnector.cs:行号 453
+
+
+
+
+
+2017/6/29 10:57:38 HDFS服务器分配节点
+
+
+
+2017/6/29 10:57:38 开始向节点slave02上传数据 D:\Videos\video-jinzhenen\《24小时》 金正恩再次会见罗德曼.flv
+
+
+
+2017/6/29 10:57:39 服务器返回错误: 服务器提交了协议冲突. Section=ResponseHeader Detail=CR 后面必须是 LF
+
+
+
+
+
+2017/6/29 10:57:39 开始保存视频元数据信息到MYSQL数据库
+
+
+2017/6/29 10:57:39 保存视频元数据信息到MYSQL数据库完成
+
+
+错误：Newtonsoft.Json.JsonReaderException: Error reading JObject from JsonReader. Path '', line 0, position 0.
+   在 Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JObject.Parse(String json)
+   在 VisTool.serverConnector.uploadVideoMeta2MySQL(String videoPath, Boolean bSuccess, String info, String& message) 位置 d:\Works_ISA\VisTool\VisWebService\serverConnector.cs:行号 453
+
+
+
+
+
+2017/6/29 10:57:39 HDFS服务器分配节点
+
+
+
+2017/6/29 10:57:39 开始向节点slave02上传数据 D:\Videos\video-jinzhenen\《24小时》 金正恩将派特使访问俄罗斯.flv
+
+
+
+2017/6/29 10:57:40 服务器返回错误: 服务器提交了协议冲突. Section=ResponseHeader Detail=CR 后面必须是 LF
+
+
+
+
+
+2017/6/29 10:57:40 开始保存视频元数据信息到MYSQL数据库
+
+
+2017/6/29 10:57:40 保存视频元数据信息到MYSQL数据库完成
+
+
+错误：Newtonsoft.Json.JsonReaderException: Error reading JObject from JsonReader. Path '', line 0, position 0.
+   在 Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JObject.Parse(String json)
+   在 VisTool.serverConnector.uploadVideoMeta2MySQL(String videoPath, Boolean bSuccess, String info, String& message) 位置 d:\Works_ISA\VisTool\VisWebService\serverConnector.cs:行号 453
+
+
+
+
+
+2017/6/29 10:57:40 HDFS服务器分配节点
+
+
+
+2017/6/29 10:57:40 开始向节点slave02上传数据 D:\Videos\video-jinzhenen\《24小时》 金正恩本土首例感染者不治身亡.flv
+
+
+
+2017/6/29 10:57:40 服务器返回错误: 服务器提交了协议冲突. Section=ResponseHeader Detail=CR 后面必须是 LF
+
+
+
+
+
+2017/6/29 10:57:40 开始保存视频元数据信息到MYSQL数据库
+
+
+2017/6/29 10:57:40 保存视频元数据信息到MYSQL数据库完成
+
+
+错误：Newtonsoft.Json.JsonReaderException: Error reading JObject from JsonReader. Path '', line 0, position 0.
+   在 Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JObject.Parse(String json)
+   在 VisTool.serverConnector.uploadVideoMeta2MySQL(String videoPath, Boolean bSuccess, String info, String& message) 位置 d:\Works_ISA\VisTool\VisWebService\serverConnector.cs:行号 453
+
+
+
+
+
+2017/6/29 10:57:40 HDFS服务器分配节点
+
+
+
+2017/6/29 10:57:40 开始向节点slave02上传数据 D:\Videos\video-jinzhenen\《24小时》 金正恩脱拐亮相.flv
+
+
+
+2017/6/29 10:57:41 服务器返回错误: 服务器提交了协议冲突. Section=ResponseHeader Detail=CR 后面必须是 LF
+
+
+
+
+
+2017/6/29 10:57:41 开始保存视频元数据信息到MYSQL数据库
+
+
+2017/6/29 10:57:41 保存视频元数据信息到MYSQL数据库完成
+
+
+错误：Newtonsoft.Json.JsonReaderException: Error reading JObject from JsonReader. Path '', line 0, position 0.
+   在 Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JObject.Parse(String json)
+   在 VisTool.serverConnector.uploadVideoMeta2MySQL(String videoPath, Boolean bSuccess, String info, String& message) 位置 d:\Works_ISA\VisTool\VisWebService\serverConnector.cs:行号 453
+
+
+
+
+
+2017/6/29 10:57:41 HDFS服务器分配节点
+
+
+
+2017/6/29 10:57:41 开始向节点slave01上传数据 D:\Videos\video-jinzhenen\《24小时》 金正恩视察前线 指挥射击训练.flv
+
+
+
+2017/6/29 10:57:42 服务器返回错误: 服务器提交了协议冲突. Section=ResponseHeader Detail=CR 后面必须是 LF
+
+
+
+
+
+2017/6/29 10:57:42 开始保存视频元数据信息到MYSQL数据库
+
+
+2017/6/29 10:57:42 保存视频元数据信息到MYSQL数据库完成
+
+
+错误：Newtonsoft.Json.JsonReaderException: Error reading JObject from JsonReader. Path '', line 0, position 0.
+   在 Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JObject.Parse(String json)
+   在 VisTool.serverConnector.uploadVideoMeta2MySQL(String videoPath, Boolean bSuccess, String info, String& message) 位置 d:\Works_ISA\VisTool\VisWebService\serverConnector.cs:行号 453
+
+
+
+
+
+2017/6/29 10:57:42 HDFS服务器分配节点
+
+
+
+2017/6/29 10:57:42 开始向节点slave01上传数据 D:\Videos\video-jinzhenen\《24小时》 金正恩连续两天视察炮击训练.flv
+
+
+
+2017/6/29 10:57:42 服务器返回错误: 服务器提交了协议冲突. Section=ResponseHeader Detail=CR 后面必须是 LF
+
+
+
+
+
+2017/6/29 10:57:42 开始保存视频元数据信息到MYSQL数据库
+
+
+2017/6/29 10:57:43 保存视频元数据信息到MYSQL数据库完成
+
+
+错误：Newtonsoft.Json.JsonReaderException: Error reading JObject from JsonReader. Path '', line 0, position 0.
+   在 Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JObject.Parse(String json)
+   在 VisTool.serverConnector.uploadVideoMeta2MySQL(String videoPath, Boolean bSuccess, String info, String& message) 位置 d:\Works_ISA\VisTool\VisWebService\serverConnector.cs:行号 453
+
+
+
+
+
+2017/6/29 10:57:43 HDFS服务器分配节点
+
+
+
+2017/6/29 10:57:43 开始向节点slave01上传数据 D:\Videos\video-jinzhenen\《24小时》 金正恩鼓励建菜棚 冬季供新鲜菜.flv
+
+
+
+2017/6/29 10:57:43 服务器返回错误: 服务器提交了协议冲突. Section=ResponseHeader Detail=CR 后面必须是 LF
+
+
+
+
+
+2017/6/29 10:57:43 开始保存视频元数据信息到MYSQL数据库
+
+
+2017/6/29 10:57:43 保存视频元数据信息到MYSQL数据库完成
+
+
+错误：Newtonsoft.Json.JsonReaderException: Error reading JObject from JsonReader. Path '', line 0, position 0.
+   在 Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JObject.Parse(String json)
+   在 VisTool.serverConnector.uploadVideoMeta2MySQL(String videoPath, Boolean bSuccess, String info, String& message) 位置 d:\Works_ISA\VisTool\VisWebService\serverConnector.cs:行号 453
+
+
+
+
+
+2017/6/29 10:57:43 HDFS服务器分配节点
+
+
+
+2017/6/29 10:57:43 开始向节点slave02上传数据 D:\Videos\video-jinzhenen\《24小时》 韩媒称金正恩已消失两周.flv
+
+
+
+2017/6/29 10:57:44 服务器返回错误: 服务器提交了协议冲突. Section=ResponseHeader Detail=CR 后面必须是 LF
+
+
+
+
+
+2017/6/29 10:57:44 开始保存视频元数据信息到MYSQL数据库
+
+
+2017/6/29 10:57:44 保存视频元数据信息到MYSQL数据库完成
+
+
+错误：Newtonsoft.Json.JsonReaderException: Error r# 2017/6/29 14:55:54 开始上传文件夹到HDFS服务器
+
+
+# 本地文件路径: D:\Videos\video-jinzhenen
+
+
+# 保存到HDFS服务器目录: video-jinzhenen
+
+
+
+
+
+2017/6/29 14:55:54 创建目录video-jinzhenen成功
+
+
+
+
+
+2017/6/29 14:55:55 HDFS服务器分配节点
+
+
+
+2017/6/29 14:55:55 开始向节点slave02上传数据 D:\Videos\video-jinzhenen\《24小时》 朝媒金正恩指导发射新试验导弹.flv
+
+
+
+2017/6/29 14:55:56 服务器返回错误: 远程服务器返回错误: (502) 错误的网关。
+
+
+
+
+
+2017/6/29 14:55:56 开始保存视频元数据信息到MYSQL数据库
+
+
+2017/6/29 14:56:11 保存视频元数据信息到MYSQL数据库完成
+
+
+错误：Newtonsoft.Json.JsonReaderException: Error reading JObject from JsonReader. Path '', line 0, position 0.
+   在 Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JObject.Parse(String json)
+   在 VisTool.serverConnector.uploadVideoMeta2MySQL(String videoPath, Boolean bSuccess, String info, String& message) 位置 d:\Works_ISA\VisTool\VisWebService\serverConnector.cs:行号 455
+
+
+
+
+
+2017/6/29 14:56:11 HDFS服务器分配节点
+
+
+
+2017/6/29 14:56:11 开始向节点slave01上传数据 D:\Videos\video-jinzhenen\《24小时》 贯彻金正恩战斗任务指示.flv
+
+
+
+2017/6/29 14:56:12 数据上传完成，服务器路径hdfs://master:9000/video-jinzhenen/
+
+
+
+
+
+2017/6/29 14:56:12 开始保存视频元数据信息到MYSQL数据库
+
+
+2017/6/29 14:56:12 保存视频元数据信息到MYSQL数据库完成
+
+
+错误：Newtonsoft.Json.JsonReaderException: Error reading JObject from JsonReader. Path '', line 0, position 0.
+   在 Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JObject.Parse(String json)
+   在 VisTool.serverConnector.uploadVideoMeta2MySQL(String videoPath, Boolean bSuccess, String info, String& message) 位置 d:\Works_ISA\VisTool\VisWebService\serverConnector.cs:行号 455
+
+
+
+
+
+2017/6/29 14:56:12 HDFS服务器分配节点
+
+
+
+2017/6/29 14:56:12 开始向节点slave01上传数据 D:\Videos\video-jinzhenen\《24小时》 金正恩 朝鲜要更多地发射卫星.flv
+
+
+
+2017/6/29 14:56:13 数据上传完成，服务器路径hdfs://master:9000/video-jinzhenen/
+
+
+
+
+
+2017/6/29 14:56:13 开始保存视频元数据信息到MYSQL数据库
+
+
+2017/6/29 14:56:13 保存视频元数据信息到MYSQL数据库完成
+
+
+错误：Newtonsoft.Json.JsonReaderException: Error reading JObject from JsonReader. Path '', line 0, position 0.
+   在 Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JObject.Parse(String json)
+   在 VisTool.serverConnector.uploadVideoMeta2MySQL(String videoPath, Boolean bSuccess, String info, String& message) 位置 d:\Works_ISA\VisTool\VisWebService\serverConnector.cs:行号 455
+
+
+
+
+
+2017/6/29 14:56:13 HDFS服务器分配节点
+
+
+
+2017/6/29 14:56:13 开始向节点slave01上传数据 D:\Videos\video-jinzhenen\《24小时》 金正恩亲笔信递到北京.flv
+
+
+
+2017/6/29 14:56:14 数据上传完成，服务器路径hdfs://master:9000/video-jinzhenen/
+
+
+
+
+
+2017/6/29 14:56:14 开始保存视频元数据信息到MYSQL数据库
+
+
+2017/6/29 14:56:14 保存视频元数据信息到MYSQL数据库完成
+
+
+错误：Newtonsoft.Json.JsonReaderException: Error reading JObject from JsonReader. Path '', line 0, position 0.
+   在 Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JObject.Parse(String json)
+   在 VisTool.serverConnector.uploadVideoMeta2MySQL(String videoPath, Boolean bSuccess, String info, String& message) 位置 d:\Works_ISA\VisTool\VisWebService\serverConnector.cs:行号 455
+
+
+
+
+
+2017/6/29 14:56:15 HDFS服务器分配节点
+
+
+
+2017/6/29 14:56:15 开始向节点slave01上传数据 D:\Videos\video-jinzhenen\《24小时》 金正恩再次会见罗德曼.flv
+
+
+
+2017/6/29 14:56:15 数据上传完成，服务器路径hdfs://master:9000/video-jinzhenen/
+
+
+
+
+
+2017/6/29 14:56:15 开始保存视频元数据信息到MYSQL数据库
+
+
+2017/6/29 14:56:15 保存视频元数据信息到MYSQL数据库完成
+
+
+错误：Newtonsoft.Json.JsonReaderException: Error reading JObject from JsonReader. Path '', line 0, position 0.
+   在 Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JObject.Parse(String json)
+   在 VisTool.serverConnector.uploadVideoMeta2MySQL(String videoPath, Boolean bSuccess, String info, String& message) 位置 d:\Works_ISA\VisTool\VisWebService\serverConnector.cs:行号 455
+
+
+
+
+
+2017/6/29 14:56:16 HDFS服务器分配节点
+
+
+
+2017/6/29 14:56:16 开始向节点slave02上传数据 D:\Videos\video-jinzhenen\《24小时》 金正恩将派特使访问俄罗斯.flv
+
+
+
+2017/6/29 14:56:17 服务器返回错误: 远程服务器返回错误: (502) 错误的网关。
+
+
+
+
+
+2017/6/29 14:56:17 开始保存视频元数据信息到MYSQL数据库
+
+
+2017/6/29 14:56:17 保存视频元数据信息到MYSQL数据库完成
+
+
+错误：Newtonsoft.Json.JsonReaderException: Error reading JObject from JsonReader. Path '', line 0, position 0.
+   在 Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JObject.Parse(String json)
+   在 VisTool.serverConnector.uploadVideoMeta2MySQL(String videoPath, Boolean bSuccess, String info, String& message) 位置 d:\Works_ISA\VisTool\VisWebService\serverConnector.cs:行号 455
+
+
+
+
+
+2017/6/29 14:56:17 HDFS服务器分配节点
+
+
+
+2017/6/29 14:56:17 开始向节点slave01上传数据 D:\Videos\video-jinzhenen\《24小时》 金正恩本土首例感染者不治身亡.flv
+
+
+
+2017/6/29 14:56:18 数据上传完成，服务器路径hdfs://master:9000/video-jinzhenen/
+
+
+
+
+
+2017/6/29 14:56:18 开始保存视频元数据信息到MYSQL数据库
+
+
+2017/6/29 14:56:18 保存视频元数据信息到MYSQL数据库完成
+
+
+错误：Newtonsoft.Json.JsonReaderException: Error reading JObject from JsonReader. Path '', line 0, position 0.
+   在 Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JObject.Parse(String json)
+   在 VisTool.serverConnector.uploadVideoMeta2MySQL(String videoPath, Boolean bSuccess, String info, String& message) 位置 d:\Works_ISA\VisTool\VisWebService\serverConnector.cs:行号 455
+
+
+
+
+
+2017/6/29 14:56:18 HDFS服务器分配节点
+
+
+
+2017/6/29 14:56:18 开始向节点slave01上传数据 D:\Videos\video-jinzhenen\《24小时》 金正恩脱拐亮相.flv
+
+
+
+2017/6/29 14:56:19 数据上传完成，服务器路径hdfs://master:9000/video-jinzhenen/
+
+
+
+
+
+2017/6/29 14:56:19 开始保存视频元数据信息到MYSQL数据库
+
+
+2017/6/29 14:56:19 保存视频元数据信息到MYSQL数据库完成
+
+
+错误：Newtonsoft.Json.JsonReaderException: Error reading JObject from JsonReader. Path '', line 0, position 0.
+   在 Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JObject.Parse(String json)
+   在 VisTool.serverConnector.uploadVideoMeta2MySQL(String videoPath, Boolean bSuccess, String info, String& message) 位置 d:\Works_ISA\VisTool\VisWebService\serverConnector.cs:行号 455
+
+
+
+
+
+2017/6/29 14:56:19 HDFS服务器分配节点
+
+
+
+2017/6/29 14:56:19 开始向节点slave01上传数据 D:\Videos\video-jinzhenen\《24小时》 金正恩视察前线 指挥射击训练# 2017/6/29 14:58:06 开始上传文件夹到HDFS服务器
+
+
+# 本地文件路径: D:\Videos\video-jinzhenen
+
+
+# 保存到HDFS服务器目录: video-jinzhenen
+
+
+
+
+
+2017/6/29 14:58:06 创建目录video-jinzhenen成功
+
+
+
+
+
+2017/6/29 14:58:06 HDFS服务器分配节点
+
+
+
+2017/6/29 14:58:06 开始向节点slave01上传数据 D:\Videos\video-jinzhenen\《24小时》 朝媒金正恩指导发射新试验导弹.flv
+
+
+
+2017/6/29 14:58:07 数据上传完成，服务器路径hdfs://master:9000/video-jinzhenen/
+
+
+
+
+
+2017/6/29 14:58:07 开始保存视频元数据信息到MYSQL数据库
+
+
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '_id', line 1, position 8.
+   在 Newtonsoft.Json.JsonTextReader.ParseValue()
+ ' at line 1
+
+
+# 上传文件夹到HDFS服务器失败
+
+
+# 2017/6/29 14:58:16 开始上传文件夹到HDFS服务器
+
+
+# 本地文件路径: D:\Videos\video-jinzhenen
+
+
+# 保存到HDFS服务器目录: video-jinzhenen
+
+
+
+
+
+2017/6/29 14:58:16 创建目录video-jinzhenen成功
+
+
+
+
+
+文件“D:\Videos\video-jinzhenen\upload_failed\log.txt”正由另一进程使用，因此该进程无法访问此文件。
+
+
+# 上传文件夹到HDFS服务器失败
+
+
+# 2017/6/29 14:58:31 开始上传文件夹到HDFS服务器
+
+
+# 本地文件路径: D:\Videos\video-jinzhenen
+
+
+# 保存到HDFS服务器目录: video-jinzhenen
+
+
+
+
+
+2017/6/29 14:58:31 创建目录video-jinzhenen成功
+
+
+
+
+
+2017/6/29 14:58:31 HDFS服务器分配节点
+
+
+
+2017/6/29 14:58:31 开始向节点slave01上传数据 D:\Videos\video-jinzhenen\《24小时》 朝媒金正恩指导发射新试验导弹.flv
+
+
+
+2017/6/29 14:58:32 数据上传完成，服务器路径hdfs://master:9000/video-jinzhenen/
+
+
+
+
+
+2017/6/29 14:58:32 开始保存视频元数据信息到MYSQL数据库
+
+
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '_id', line 1, position 8.
+   在 Newtonsoft.Json.JsonTextReader.ParseValue()
+ ' at line 1
+
+
+# 上传文件夹到HDFS服务器失败
+
+
+# 2017/6/29 15:01:11 开始上传文件夹到HDFS服务器
+
+
+# 本地文件路径: D:\Videos\video-jinzhenen
+
+
+# 保存到HDFS服务器目录: video-jinzhenen
+
+
+
+
+
+2017/6/29 15:01:11 创建目录video-jinzhenen成功
+
+
+
+
+
+2017/6/29 15:01:11 HDFS服务器分配节点
+
+
+
+2017/6/29 15:01:11 开始向节点slave01上传数据 D:\Videos\video-jinzhenen\《24小时》 朝媒金正恩指导发射新试验导弹.flv
+
+
+
+2017/6/29 15:01:12 数据上传完成，服务器路径hdfs://master:9000/video-jinzhenen/
+
+
+
+
+
+2017/6/29 15:01:12 开始保存视频元数据信息到MYSQL数据库
+
+
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '_id', line 1, position 8.
+   在 Newtonsoft.Json.JsonTextReader.ParseValue()
+ ' at line 1
+
+
+# 上传文件夹到HDFS服务器失败
+
+
+# 2017/6/29 15:02:18 开始上传文件夹到HDFS服务器
+
+
+# 本地文件路径: D:\Videos\video-jinzhenen
+
+
+# 保存到HDFS服务器目录: video-jinzhenen
+
+
+
+
+
+2017/6/29 15:02:18 创建目录video-jinzhenen成功
+
+
+
+
+
+文件“D:\Videos\video-jinzhenen\upload_failed\log.txt”正由另一进程使用，因此该进程无法访问此文件。
+
+
+# 上传文件夹到HDFS服务器失败
+
+
+# 2017/6/29 15:41:28 开始上传文件夹到HDFS服务器
+
+
+# 本地文件路径: D:\Videos\video-jinzhenen
+
+
+# 保存到HDFS服务器目录: video-jinzhenen
+
+
+
+
+
+2017/6/29 15:41:29 创建目录video-jinzhenen成功
+
+
+
+
+
+2017/6/29 15:41:29 HDFS服务器分配节点
+
+
+
+2017/6/29 15:41:29 开始向节点slave01上传数据 D:\Videos\video-jinzhenen\《24小时》 朝媒金正恩指导发射新试验导弹.flv
+
+
+
+2017/6/29 15:41:30 数据上传完成，服务器路径hdfs://master:9000/video-jinzhenen/
+
+
+
+
+
+2017/6/29 15:41:30 开始保存视频元数据信息到MYSQL数据库
+
+
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '_id', line 1, position 8.
+   在 Newtonsoft.Json.JsonTextReader.ParseValue()
+ ' at line 1
+
+
+# 上传文件夹到HDFS服务器失败
+
+
+# 2017/6/29 15:41:57 开始上传文件夹到HDFS服务器
+
+
+# 本地文件路径: D:\Videos\video-jinzhenen
+
+
+# 保存到HDFS服务器目录: video-jinzhenen
+
+
+
+
+
+2017/6/29 15:41:57 创建目录video-jinzhenen成功
+
+
+
+
+
+2017/6/29 15:41:57 HDFS服务器分配节点
+
+
+
+2017/6/29 15:41:57 开始向节点slave02上传数据 D:\Videos\video-jinzhenen\《24小时》 朝媒金正恩指导发射新试验导弹.flv
+
+
+
+2017/6/29 15:41:58 服务器返回错误: 远程服务器返回错误: (502) 错误的网关。
+
+
+
+
+
+2017/6/29 15:41:58 开始保存视频元数据信息到MYSQL数据库
+
+
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '_id', line 1, position 8.
+   在 Newtonsoft.Json.JsonTextReader.ParseValue()
+ ' at line 1
+
+
+# 上传文件夹到HDFS服务器失败
+
+
+# 2017/6/29 15:42:17 开始上传文件夹到HDFS服务器
+
+
+# 本地文件路径: D:\Videos\video-jinzhenen
+
+
+# 保存到HDFS服务器目录: video-jinzhenen
+
+
+
+
+
+2017/6/29 15:42:17 创建目录video-jinzhenen成功
+
+
+
+
+
+2017/6/29 15:42:17 HDFS服务器分配节点
+
+
+
+2017/6/29 15:42:17 开始向节点slave01上传数据 D:\Videos\video-jinzhenen\《24小时》 朝媒金正恩指导发射新试验导弹.flv
+
+
+
+2017/6/29 15:42:18 数据上传完成，服务器路径hdfs://master:9000/video-jinzhenen/
+
+
+
+
+
+2017/6/29 15:42:18 开始保存视频元数据信息到MYSQL数据库
+
+
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '_id', line 1, position 8.
+   在 Newtonsoft.Json.JsonTextReader.ParseValue()
+ ' at line 1
+
+
+# 上传文件夹到HDFS服务器失败
+
+
+# 2017/6/29 15:43:03 开始上传文件夹到HDFS服务器
+
+
+# 本地文件路径: D:\Videos\video-jinzhenen
+
+
+# 保存到HDFS服务器目录: video-jinzhenen
+
+
+
+
+
+2017/6/29 15:43:03 创建目录video-jinzhenen成功
+
+
+
+
+
+2017/6/29 15:43:03 HDFS服务器分配节点
+
+
+
+2017/6/29 15:43:03 开始向节点slave01上传数据 D:\Videos\video-jinzhenen\《24小时》 朝媒金正恩指导发射新试验导弹.flv
+
+
+
+2017/6/29 15:43:04 数据上传完成，服务器路径hdfs://master:9000/video-jinzhenen/
+
+
+
+
+
+2017/6/29 15:43:04 开始保存视频元数据信息到MYSQL数据库
+
+
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '_id', line 1, position 8.
+   在 Newtonsoft.Json.JsonTextReader.ParseValue()
+ ' at line 1
+
+
+# 上传文件夹到HDFS服务器失败
+
+
+# 2017/6/29 15:43:17 开始上传文件夹到HDFS服务器
+
+
+# 本地文件路径: D:\Videos\video-jinzhenen
+
+
+# 保存到HDFS服务器目录: video-jinzhenen
+
+
+
+
+
+2017/6/29 15:43:17 创建目录video-jinzhenen成功
+
+
+
+
+
+2017/6/29 15:43:17 HDFS服务器分配节点
+
+
+
+2017/6/29 15:43:17 开始向节点slave01上传数据 D:\Videos\video-jinzhenen\《24小时》 朝媒金正恩指导发射新试验导弹.flv
+
+
+
+2017/6/29 15:43:18 数据上传完成，服务器路径hdfs://master:9000/video-jinzhenen/
+
+
+
+
+
+2017/6/29 15:43:18 开始保存视频元数据信息到MYSQL数据库
+
+
+You have an error in your SQL# 2017/6/29 16:45:09 开始上传文件夹到HDFS服务器
+
+
+# 本地文件路径: D:\Videos\video-jinzhenen
+
+
+# 保存到HDFS服务器目录: video-jinzhenen
+
+
+
+
+
+远程服务器返回错误: (403) 已禁止。
+
+
+# 上传文件夹到HDFS服务器失败
+
+
+# 2017/6/29 16:45:18 开始上传文件夹到HDFS服务器
+
+
+# 本地文件路径: D:\Videos\video-jinzhenen
+
+
+# 保存到HDFS服务器目录: video-jinzhenen
+
+
+
+
+
+远程服务器返回错误: (403) 已禁止。
+
+
+# 上传文件夹到HDFS服务器失败
+
+
+# 2017/6/29 16:45:19 开始上传文件夹到HDFS服务器
+
+
+# 本地文件路径: D:\Videos\video-jinzhenen
+
+
+# 保存到HDFS服务器目录: video-jinzhenen
+
+
+
+
+
+远程服务器返回错误: (403) 已禁止。
+
+
+# 上传文件夹到HDFS服务器失败
+
+
+# 2017/6/29 16:45:20 开始上传文件夹到HDFS服务器
+
+
+# 本地文件路径: D:\Videos\video-jinzhenen
+
+
+# 保存到HDFS服务器目录: video-jinzhenen
+
+
+
+
+
+远程服务器返回错误: (403) 已禁止。
+
+
+# 上传文件夹到HDFS服务器失败
+
+
+# 2017/6/29 16:45:21 开始上传文件夹到HDFS服务器
+
+
+# 本地文件路径: D:\Videos\video-jinzhenen
+
+
+# 保存到HDFS服务器目录: video-jinzhenen
+
+
+
+
+
+远程服务器返回错误: (403) 已禁止。
+
+
+# 上传文件夹到HDFS服务器失败
+
+
+# 2017/6/29 16:45:22 开始上传文件夹到HDFS服务器
+
+
+# 本地文件路径: D:\Videos\video-jinzhenen
+
+
+# 保存到HDFS服务器目录: video-jinzhenen
+
+
+
+
+
+远程服务器返回错误: (403) 已禁止。
+
+
+# 上传文件夹到HDFS服务器失败
+
+
+# 2017/6/29 16:45:23 开始上传文件夹到HDFS服务器
+
+
+# 本地文件路径: D:\Videos\video-jinzhenen
+
+
+# 保存到HDFS服务器目录: video-jinzhenen
+
+
+
+
+
+远程服务器返回错误: (403) 已禁止。
+
+
+# 上传文件夹到HDFS服务器失败
+
+
+# 2017/6/29 16:45:23 开始上传文件夹到HDFS服务器
+
+
+# 本地文件路径: D:\Videos\video-jinzhenen
+
+
+# 保存到HDFS服务器目录: video-jinzhenen
+
+
+
+
+
+远程服务器返回错误: (403) 已禁止。
+
+
+# 上传文件夹到HDFS服务器失败
+
+
+# 2017/6/29 16:45:23 开始上传文件夹到HDFS服务器
+
+
+# 本地文件路径: D:\Videos\video-jinzhenen
+
+
+# 保存到HDFS服务器目录: video-jinzhenen
+
+
+
+
+
+远程服务器返回错误: (403) 已禁止。
+
+
+# 上传文件夹到HDFS服务器失败
+
+
+# 2017/6/29 16:45:23 开始上传文件夹到HDFS服务器
+
+
+# 本地文件路径: D:\Videos\video-jinzhenen
+
+
+# 保存到HDFS服务器目录: video-jinzhenen
+
+
+
+
+
+远程服务器返回错误: (403) 已禁止。
+
+
+# 上传文件夹到HDFS服务器失败
+
+
+# 2017/6/29 16:45:24 开始上传文件夹到HDFS服务器
+
+
+# 本地文件路径: D:\Videos\video-jinzhenen
+
+
+# 保存到HDFS服务器目录: video-jinzhenen
+
+
+
+
+
+远程服务器返回错误: (403) 已禁止。
+
+
+# 上传文件夹到HDFS服务器失败
+
+
+# 2017/6/29 16:45:24 开始上传文件夹到HDFS服务器
+
+
+# 本地文件路径: D:\Videos\video-jinzhenen
+
+
+# 保存到HDFS服务器目录: video-jinzhenen
+
+
+
+
+
+远程服务器返回错误: (403) 已禁止。
+
+
+# 上传文件夹到HDFS服务器失败
+
+
+# 2017/6/29 16:45:24 开始上传文件夹到HDFS服务器
+
+
+# 本地文件路径: D:\Videos\video-jinzhenen
+
+
+# 保存到HDFS服务器目录: video-jinzhenen
+
+
+
+
+
+远程服务器返回错误: (403) 已禁止。
+
+
+# 上传文件夹到HDFS服务器失败
+
+
+# 2017/6/29 16:45:24 开始上传文件夹到HDFS服务器
+
+
+# 本地文件路径: D:\Videos\video-jinzhenen
+
+
+# 保存到HDFS服务器目录: video-jinzhenen
+
+
+
+
+
+远程服务器返回错误: (403) 已禁止。
+
+
+# 上传文件夹到HDFS服务器失败
+
+
+# 2017/6/29 16:46:36 开始上传文件夹到HDFS服务器
+
+
+# 本地文件路径: D:\Videos\video-jinzhenen
+
+
+# 保存到HDFS服务器目录: video-jinzhenen
+
+
+
+
+
+远程服务器返回错误: (403) 已禁止。
+
+
+# 上传文件夹到HDFS服务器失败
+
+
+# 2017/6/29 16:47:09 开始上传文件夹到HDFS服务器
+
+
+# 本地文件路径: D:\Videos\video-jinzhenen
+
+
+# 保存到HDFS服务器目录: video-jinzhenen
+
+
+
+
+
+远程服务器返回错误: (403) 已禁止。
+
+
+# 上传文件夹到HDFS服务器失败
+
+
+# 2017/6/29 16:47:56 开始上传文件夹到HDFS服务器
+
+
+# 本地文件路径: D:\Videos\video-jinzhenen
+
+
+# 保存到HDFS服务器目录: video-jinzhenen
+
+
+
+
+
+远程服务器返回错误: (403) 已禁止。
+
+
+# 上传文件夹到HDFS服务器失败
+
+
